@@ -1,0 +1,32 @@
+{
+  "name": "use-screen-dimensions",
+  "version": "1.0.1",
+  "description": "custom react hook to get current window dimensions",
+  "main": "use-screen-dimensions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amendezm/use-window-dimensions.git"
+  },
+  "keywords": [
+    "window",
+    "width",
+    "height",
+    "react",
+    "hook"
+  ],
+  "author": "amendezm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amendezm/use-window-dimensions/issues"
+  },
+  "homepage": "https://github.com/amendezm/use-window-dimensions#readme",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "dependencies": {
+    "react-dom": "^18.0.0"
+  }
+}
