@@ -1,11 +1,12 @@
 {
   "name": "use-screen-dimensions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "custom react hook to get current window dimensions",
   "main": "use-screen-dimensions.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "types": "./use-screen-dimensions.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amendezm/use-window-dimensions.git"
