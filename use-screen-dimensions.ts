@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect, useState } from "react";
 
 const useScreenDimensions = (): ScreenDimensions => {
@@ -8,6 +10,7 @@ const useScreenDimensions = (): ScreenDimensions => {
     setWidth(window.innerWidth);
     setHeight(window.innerHeight);
   };
+
   useEffect(() => {
     updateDimensions();
 
